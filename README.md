@@ -1,7 +1,5 @@
 # WordPress learning
 
-[Adding meta box](#adding-meta-box)
+[**Glossary**](glossary.md)  
 
-#### Adding meta box
-```php
-```
+[**API**](api.md)
