@@ -1,13 +1,14 @@
 
 [Adding meta box](#snippet-adding-meta-box)
 # API
+- [Meta box](#meta-box)
+    - [Add](#meta-box-add)
 
-**API**  
-[Adding meta box](#adding-meta-box)
 
-<h3 id="adding-meta-box">Adding meta box</h3>
+### Meta box
+<h4 id="meta-box-add">Add</h4>
 
-Insert meta box ลงไปในหน้าที่เราต้องการ  
+เพิ่ม meta box ลงไปในหน้าที่เราต้องการ  
 ```php
 function prefix_add_meta_boxes() {
     add_meta_box(
